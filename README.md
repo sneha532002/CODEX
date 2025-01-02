@@ -3,7 +3,9 @@ This project explores the market dynamics of Codex Energy Drinks, providing acti
 # Key Insights 
 1.Demographic Preferences:
 Males and the 19–30 age group show the highest preference for energy drinks.
+
 Females and non-binary individuals represent untapped opportunities.
+
 2.Effective Marketing Channels:
 Online ads outperform all other channels, especially for youth engagement.
 TV commercials and outdoor billboards support brand visibility.
