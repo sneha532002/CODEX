@@ -2,18 +2,27 @@
 This project explores the market dynamics of Codex Energy Drinks, providing actionable insights to improve market penetration, brand awareness, and customer engagement.
 # Key Insights 
 1.Demographic Preferences:
+
 Males and the 19–30 age group show the highest preference for energy drinks.
 
 Females and non-binary individuals represent untapped opportunities.
 
 2.Effective Marketing Channels:
+
 Online ads outperform all other channels, especially for youth engagement.
+
 TV commercials and outdoor billboards support brand visibility.
+
 3.Consumer Preferences:
+
 Caffeine is the most preferred ingredient, followed by vitamins and sugar.
+
 Compact and portable cans are the top packaging choice.
+
 4.Purchase and Consumption Behavior:
+
 Supermarkets and online retailers are the most popular purchase locations.
+
 Energy drinks are frequently consumed during sports, studying, and late work hours.
 
 # Recommendations
