@@ -27,18 +27,31 @@ Energy drinks are frequently consumed during sports, studying, and late work hou
 
 # Recommendations
 1.Target Demographics:
+
 Prioritize marketing to males and the 19–30 age group.
+
 Develop targeted campaigns to engage females and non-binary individuals.
+
 2.Marketing Strategies:
+
 Invest heavily in online ads to maximize youth engagement.
+
 Enhance secondary channels like TV commercials for broader reach.
+
 3.Product Innovation:
+
 Promote caffeine and vitamin benefits in product marketing.
+
 Expand eco-friendly and portable packaging options.
+
 4.Sales Optimization:
+
 Increase visibility in supermarkets and online platforms.
+
 Partner with gyms and fitness centers to attract health-conscious consumers.
+
 5.Pricing Strategy:
+
 Maintain a mid-range pricing strategy while offering premium options for niche customers.
 
 # Tools Used
